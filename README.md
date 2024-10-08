@@ -5,7 +5,7 @@ Play Bad Apple in MacOS menu bar
 - Play Bad Apple in MacOS menu bar
 
 ## Screencasts
-
+https://github.com/user-attachments/assets/d6967fe7-dbc0-4247-b97b-1ae61476f139
 
 ## Usage
 ### Install dependencies

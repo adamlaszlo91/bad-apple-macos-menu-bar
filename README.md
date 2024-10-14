@@ -1,8 +1,8 @@
 # bad-apple-macos-menu-bar
-Play Bad Apple in MacOS menu bar
+Play Bad Apple in macOS menu bar
 
 ## Features
-- Play Bad Apple in MacOS menu bar
+- Play Bad Apple in macOS menu bar
 
 ## Screencasts
 https://github.com/user-attachments/assets/d6967fe7-dbc0-4247-b97b-1ae61476f139
